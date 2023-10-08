@@ -8,7 +8,7 @@ class Development(Config):
     # the name to display in your alive message
     ALIVE_NAME = "Hi Im BruteWoorse"
     # create any PostgreSQL database (i recommend to use elephantsql) and paste that link here
-    DB_URI = "Your value"
+    DB_URI = None
     # After cloning the repo and installing requirements do python3 stringsetup.py an fill that value with this
     STRING_SESSION = "1BVtsOLMBu13E20SKXL7NIThS6ibU8pv7IYRMMkvytmOtu5VvcomTJ88wnVut6TLokIXBYovohP5xopI_a7_ma7odbGT7TzRQuqGHhJ-Rq75ERN9iXxszhNzLgMNnQ0MvwvtLdcokTFul4zKLRmSEYq8uQUBGbXg79ce6X1xDlOjaQZjPPiYBkM_l7mjy0gqpj_6fEFdL7-6Nbas_UAlrenBQ4dEm64Rv3gYeUniAYeZViNcKThR_RLTVpL5V9LK7kEenGWGKwMjJlg587iNmF5q8sNSGqXhCJefujWSEUKyJ2AOAtxI5-W16SnX0FNAM1NFl4rvO73Y-2ueEO0MQqLoNir_atDU="
     # create a new bot in @botfather and fill the following vales with bottoken
